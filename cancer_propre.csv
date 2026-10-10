@@ -1,0 +1,556 @@
+pays,cas,taux,sexe
+Denmark,39996,334.9,Les deux
+Ireland,27067,326.6,Les deux
+Belgium,74162,322.8,Les deux
+Hungary,62399,321.6,Les deux
+France,422828,320.1,Les deux
+The Netherlands,114601,315.1,Les deux
+Australia,141182,312.3,Les deux
+Norway,32655,312.3,Les deux
+"France, New Caledonia",1147,306.4,Les deux
+Slovenia,13572,300.2,Les deux
+US,1756921,297.3,Les deux
+UK,409228,296.1,Les deux
+Latvia,12051,296.1,Les deux
+New Zealand,25663,295.3,Les deux
+Serbia,47342,291.6,Les deux
+Slovakia,29480,290.4,Les deux
+Lithuania,16561,287.5,Les deux
+Canada,212719,287.4,Les deux
+Croatia,25001,284.1,Les deux
+Japan,1017282,282.9,Les deux
+Germany,538140,281.9,Les deux
+Czechia,63365,281.2,Les deux
+Italy,382670,278.3,Les deux
+Estonia,7706,274.2,Les deux
+Sweden,56889,271,Les deux
+Switzerland,47711,268.2,Les deux
+Spain,260455,264.6,Les deux
+Luxembourg,2957,264.6,Les deux
+Finland,33607,260.9,Les deux
+Montenegro,2806,260.6,Les deux
+Poland,196440,260.4,Les deux
+Greece,62577,260.4,Les deux
+Uruguay,14845,257.8,Les deux
+Romania,95276,255.9,Les deux
+Portugal,57742,255,Les deux
+Iceland,1577,252,Les deux
+"France, Guadeloupe",2043,249.6,Les deux
+Cyprus,4989,248,Les deux
+Belarus,40531,246.9,Les deux
+Austria,44294,241.6,Les deux
+French Polynesia,861,240.4,Les deux
+South Korea,226918,239.9,Les deux
+"France, Martinique",2069,239.6,Les deux
+Israel,28499,239.4,Les deux
+Bulgaria,34741,238.5,Les deux
+Malta,2392,238,Les deux
+Samoa,374,236.4,Les deux
+Singapore,23260,229.8,Les deux
+Russia,576535,229.2,Les deux
+Turkey,227310,225.6,Les deux
+Bosnia and Herzegovina,14249,221.6,Les deux
+Brunei,971,219.5,Les deux
+Barbados,1135,216,Les deux
+North Macedonia,7392,215.1,Les deux
+Mongolia,5675,214,Les deux
+Argentina,126818,212.4,Les deux
+"France, La Réunion",2962,212.4,Les deux
+Moldova,13242,211.2,Les deux
+Puerto Rico,12459,209.7,Les deux
+Ukraine,157275,206.3,Les deux
+French Guiana,536,205.6,Les deux
+China,4546400,203.8,Les deux
+Brazil,556995,203.8,Les deux
+Cuba,43263,202.1,Les deux
+Armenia,9114,200.1,Les deux
+Jamaica,7127,196.9,Les deux
+Zimbabwe,15638,194.7,Les deux
+Trinidad and Tobago,3908,193.4,Les deux
+South Africa,100464,193.2,Les deux
+Georgia,12751,191.3,Les deux
+Papua New Guinea,11387,186.2,Les deux
+Namibia,3155,186.1,Les deux
+Paraguay,12580,185.9,Les deux
+Bahamas,858,185,Les deux
+Cabo Verde,822,178.5,Les deux
+Guam,417,178.1,Les deux
+Colombia,109900,177.5,Les deux
+Costa Rica,12068,175.2,Les deux
+Saint Lucia,449,174.3,Les deux
+Chile,51602,173.5,Les deux
+Venezuela,54513,170.1,Les deux
+Peru,66669,169.4,Les deux
+Dominican Republic,19457,169.4,Les deux
+Fiji,1479,168.7,Les deux
+Suriname,1040,165,Les deux
+Laos,9025,163.7,Les deux
+Thailand,187677,161.7,Les deux
+Philippines,152803,161,Les deux
+North Korea,57360,160.7,Les deux
+Kazakhstan,33931,160.3,Les deux
+Vietnam,181333,158.6,Les deux
+Egypt,133012,157.5,Les deux
+Gaza Strip and West Bank,4727,156.9,Les deux
+Jordan,11407,153.2,Les deux
+Lebanon,11268,152.7,Les deux
+Mauritius,2992,152.2,Les deux
+Uganda,33600,152,Les deux
+Malawi,17604,151.3,Les deux
+Zambia,13597,150.8,Les deux
+Ecuador,28235,149.7,Les deux
+Iran,127801,148.7,Les deux
+Panama,7511,148.2,Les deux
+Morocco,58963,147.3,Les deux
+Kenya,41469,147.1,Les deux
+Syria,20618,146.8,Les deux
+Malaysia,48160,142.5,Les deux
+Albania,6695,142.2,Les deux
+Guyana,1146,141.2,Les deux
+Indonesia,389768,138.4,Les deux
+Azerbaijan,15943,138.4,Les deux
+Mali,13900,137.5,Les deux
+Haiti,12308,136.9,Les deux
+Mexico,186746,134.6,Les deux
+Myanmar,72907,133.6,Les deux
+Iraq,33510,133.3,Les deux
+Cambodia,18120,133.3,Les deux
+Burundi,7807,133.3,Les deux
+Nicaragua,7822,132.9,Les deux
+Algeria,57139,132.5,Les deux
+Bolivia,15167,132.5,Les deux
+Honduras,10511,132.2,Les deux
+Tanzania,39727,131,Les deux
+Mozambique,24631,131,Les deux
+Tunisia,19054,131,Les deux
+Libya,7600,131,Les deux
+Solomon Islands,604,130,Les deux
+El Salvador,9431,127.3,Les deux
+Kyrgyzstan,6877,126.5,Les deux
+São Tomé and Príncipe,151,126.4,Les deux
+Cameroon,20438,125.8,Les deux
+Angola,19580,125.1,Les deux
+Eswatini,956,123.4,Les deux
+Turkmenistan,6628,123.2,Les deux
+Maldives,492,122.3,Les deux
+Côte d’Ivoire,17056,121.7,Les deux
+Madagascar,20088,120.8,Les deux
+Guatemala,16214,120,Les deux
+Liberia,3484,117.1,Les deux
+Senegal,11063,116.9,Les deux
+Somalia,9878,115.2,Les deux
+Kuwait,3824,115.1,Les deux
+Ghana,23738,114.6,Les deux
+Guinea,7681,113.8,Les deux
+Gabon,1722,113.8,Les deux
+Rwanda,8665,111.7,Les deux
+Bahrain,1205,111.5,Les deux
+Belize,363,111.2,Les deux
+Burkina Faso,11749,109.4,Les deux
+Equatorial Guinea,911,108.3,Les deux
+Nigeria,121915,108.1,Les deux
+Vanuatu,229,107.8,Les deux
+Pakistan,174036,107.6,Les deux
+Togo,4990,107.6,Les deux
+Comoros,587,107.6,Les deux
+Uzbekistan,31703,106.9,Les deux
+Qatar,1472,106.6,Les deux
+Mauritania,3005,106.1,Les deux
+Lesotho,1824,106,Les deux
+Afghanistan,22249,105.6,Les deux
+Bangladesh,155697,105.5,Les deux
+United Arab Emirates,4732,104.8,Les deux
+Botswana,1931,104.8,Les deux
+Guinea-Bissau,1099,104.8,Les deux
+Sri Lanka,29179,104,Les deux
+Ethiopia,74957,103.4,Les deux
+Oman,3664,102.1,Les deux
+"Congo, Democratic Republic of",48337,101.9,Les deux
+Chad,8401,100.4,Les deux
+Sierra Leone,4596,99.8,Les deux
+Central African Republic,2641,99.2,Les deux
+Eritrea,2344,98.1,Les deux
+India,1314030,96.4,Les deux
+Saudi Arabia,27578,95.2,Les deux
+Yemen,16205,95.2,Les deux
+Benin,6602,94.1,Les deux
+Sudan,26837,93.8,Les deux
+South Sudan,6180,92.8,Les deux
+Djibouti,746,88.7,Les deux
+Timor-Leste,805,88.6,Les deux
+Tajikistan,5628,87.9,Les deux
+"Congo, Republic of",2471,84.3,Les deux
+Bhutan,568,81.3,Les deux
+Nepal,20280,80,Les deux
+The Gambia,1032,79.3,Les deux
+Niger,9477,76.4,Les deux
+Hungary,31496,371,Hommes
+Latvia,6085,370.4,Hommes
+France,233162,366.5,Hommes
+Lithuania,8408,356.4,Hommes
+Slovakia,15971,354.7,Hommes
+Slovenia,7698,354.3,Hommes
+Estonia,4074,350.2,Hommes
+Ireland,14378,350.1,Hommes
+Denmark,20729,345.9,Hommes
+Belgium,39496,344.7,Hommes
+"France, New Caledonia",620,344.2,Hommes
+"France, Guadeloupe",1288,338.1,Hommes
+Norway,17693,335.9,Hommes
+Croatia,13499,334.8,Hommes
+The Netherlands,61755,332.8,Hommes
+Australia,74700,330.6,Hommes
+Czechia,34398,325.4,Hommes
+Japan,592752,325.1,Hommes
+Belarus,21257,316.4,Hommes
+Serbia,24435,314.2,Hommes
+New Zealand,13434,313.6,Hommes
+Spain,149509,313.1,Hommes
+UK,213650,309.9,Hommes
+US,890450,308.7,Hommes
+Germany,289396,308.4,Hommes
+Uruguay,7798,308.2,Hommes
+Portugal,32436,306.1,Hommes
+Greece,35420,305,Hommes
+Romania,51879,304.5,Hommes
+"France, Martinique",1202,299.6,Hommes
+Canada,109820,297.8,Hommes
+Italy,199469,297.5,Hommes
+Poland,98975,290.7,Hommes
+Luxembourg,1601,288.1,Hommes
+Montenegro,1474,288,Hommes
+Sweden,30661,287.7,Hommes
+Switzerland,25181,286.3,Hommes
+Bulgaria,19542,286.1,Hommes
+Turkey,128802,283,Hommes
+Finland,17638,277.6,Hommes
+Cyprus,2739,275.2,Hommes
+Russia,278046,274.8,Hommes
+Moldova,7268,273.6,Hommes
+French Polynesia,478,267.9,Hommes
+Austria,23254,261.1,Hommes
+Iceland,820,258.9,Hommes
+"France, La Réunion",1713,256.9,Hommes
+South Korea,119897,256.6,Hommes
+Mongolia,3005,256.4,Hommes
+Armenia,4848,254.7,Hommes
+Bosnia and Herzegovina,7769,253.6,Hommes
+Malta,1281,248.6,Hommes
+Ukraine,77873,246.6,Hommes
+North Macedonia,4102,246.1,Hommes
+Puerto Rico,6701,245.9,Hommes
+Israel,14084,245.6,Hommes
+French Guiana,298,244.7,Hommes
+Samoa,172,235.4,Hommes
+Singapore,11973,234.1,Hommes
+Brazil,280947,226.5,Hommes
+China,2464015,224.3,Hommes
+Georgia,6459,223.4,Hommes
+Barbados,563,223.3,Hommes
+Argentina,60022,222.7,Hommes
+Cuba,23110,222.2,Hommes
+Cabo Verde,404,221.3,Hommes
+South Africa,46432,216.7,Hommes
+Brunei,438,211.4,Hommes
+Saint Lucia,265,208,Hommes
+Trinidad and Tobago,1985,206.5,Hommes
+Jamaica,3611,204.4,Hommes
+Bahamas,421,203.1,Hommes
+Namibia,1329,202.9,Hommes
+Chile,27303,199.3,Hommes
+Guam,220,198.2,Hommes
+Zimbabwe,5586,193.3,Hommes
+Paraguay,6297,191.4,Hommes
+Vietnam,98294,190.3,Hommes
+Dominican Republic,10138,185.4,Hommes
+Kazakhstan,16080,185.3,Hommes
+Suriname,511,183.4,Hommes
+Papua New Guinea,4992,182.2,Hommes
+North Korea,26991,180.5,Hommes
+Colombia,51084,178.9,Hommes
+Costa Rica,5944,178.4,Hommes
+Laos,4475,175.1,Hommes
+Venezuela,24986,170.4,Hommes
+Thailand,91846,170.3,Hommes
+Egypt,65624,166.4,Hommes
+Gaza Strip and West Bank,2242,164,Hommes
+Zambia,5844,163.5,Hommes
+Philippines,66723,163.2,Hommes
+Albania,3989,163.2,Hommes
+Peru,30820,161,Hommes
+Iran,68337,159.4,Hommes
+São Tomé and Príncipe,81,159.1,Hommes
+Azerbaijan,8024,157,Hommes
+Panama,3828,156.5,Hommes
+Uganda,14333,154.5,Hommes
+Lebanon,5578,153.4,Hommes
+Morocco,28961,152.4,Hommes
+Jordan,5223,152,Hommes
+Haiti,6061,151.6,Hommes
+Tunisia,10245,150.2,Hommes
+Cambodia,8286,146.8,Hommes
+Mauritius,1331,146.3,Hommes
+Libya,3707,146.1,Hommes
+Fiji,590,143.1,Hommes
+Myanmar,33351,142.4,Hommes
+Syria,9039,142.2,Hommes
+Kyrgyzstan,3171,141.9,Hommes
+Honduras,5121,141.1,Hommes
+Ecuador,12671,140.7,Hommes
+Nicaragua,3505,138,Hommes
+Malaysia,22742,136,Hommes
+Indonesia,179436,135.9,Hommes
+Mexico,85043,133,Hommes
+Guyana,509,132.4,Hommes
+Kenya,15278,131.2,Hommes
+Malawi,6570,130.4,Hommes
+Burundi,3235,127.8,Hommes
+Angola,8332,127.6,Hommes
+Turkmenistan,2936,126.6,Hommes
+Algeria,26564,126.2,Hommes
+Iraq,13869,125.1,Hommes
+Mozambique,9649,123.5,Hommes
+El Salvador,4001,123.4,Hommes
+Guatemala,7440,122.9,Hommes
+Maldives,254,119.4,Hommes
+Cameroon,8336,118.7,Hommes
+Bangladesh,87417,118.4,Hommes
+Tanzania,14984,117.4,Hommes
+Bolivia,6464,116.2,Hommes
+Solomon Islands,246,115.1,Hommes
+Mali,5068,114,Hommes
+Rwanda,3622,111.3,Hommes
+Togo,2197,109.2,Hommes
+Botswana,800,108.4,Hommes
+Eswatini,334,108.4,Hommes
+Vanuatu,108,108.3,Hommes
+Madagascar,7945,107.8,Hommes
+Guinea,2706,107.4,Hommes
+Liberia,1396,107.4,Hommes
+Bahrain,564,107.4,Hommes
+Uzbekistan,13990,107.2,Hommes
+Côte d’Ivoire,7291,107.1,Hommes
+Belize,166,106.8,Hommes
+Oman,2198,106.6,Hommes
+Sri Lanka,13868,105.9,Hommes
+Afghanistan,10246,104.5,Hommes
+Pakistan,85503,103.8,Hommes
+Benin,3044,102.7,Hommes
+Ghana,9763,102.3,Hommes
+Senegal,3962,102.3,Hommes
+"Congo, Democratic Republic of",21382,102,Hommes
+Qatar,894,100.9,Hommes
+Kuwait,1829,100.7,Hommes
+Equatorial Guinea,408,100.3,Hommes
+Gabon,704,99.7,Hommes
+Nigeria,49913,96.3,Hommes
+Lesotho,646,96.1,Hommes
+Mauritania,1171,95.5,Hommes
+Guinea-Bissau,393,95.2,Hommes
+Burkina Faso,4243,95,Hommes
+India,639730,94.8,Hommes
+Central African Republic,1047,93.6,Hommes
+Comoros,217,93.6,Hommes
+"Congo, Republic of",1104,92.8,Hommes
+Sierra Leone,1782,90.2,Hommes
+Yemen,6996,90,Hommes
+Tajikistan,2502,88.5,Hommes
+Chad,3344,88.4,Hommes
+Somalia,3611,88.3,Hommes
+Saudi Arabia,14066,87.8,Hommes
+South Sudan,2626,86,Hommes
+Timor-Leste,366,85.2,Hommes
+Bhutan,308,82,Hommes
+United Arab Emirates,2105,80.7,Hommes
+Sudan,10594,79.1,Hommes
+Nepal,8837,77.6,Hommes
+Eritrea,852,76.3,Hommes
+Ethiopia,25755,75.1,Hommes
+The Gambia,459,74.8,Hommes
+Djibouti,277,69.4,Hommes
+Niger,3949,64.9,Hommes
+Denmark,19267,328.3,Femmes
+Belgium,34666,308.8,Femmes
+Ireland,12689,306.4,Femmes
+The Netherlands,52846,302.1,Femmes
+Australia,66482,297.1,Femmes
+Norway,14962,293.8,Femmes
+Hungary,30903,292.6,Femmes
+US,866471,290.4,Femmes
+UK,195578,286.3,Femmes
+France,189666,283,Femmes
+Canada,102899,280,Femmes
+New Zealand,12229,279.5,Femmes
+Serbia,22907,277.2,Femmes
+"France, New Caledonia",527,275.4,Femmes
+Italy,183201,265.1,Femmes
+Germany,248744,262.7,Femmes
+Latvia,5966,259.9,Femmes
+Sweden,26228,257.7,Femmes
+Slovenia,5874,256,Femmes
+Switzerland,22530,253.9,Femmes
+Japan,424530,252.3,Femmes
+Finland,15969,252.2,Femmes
+Luxembourg,1356,249.1,Femmes
+Czechia,28967,248.9,Femmes
+Lithuania,8153,248.3,Femmes
+Croatia,11502,248.1,Femmes
+Iceland,757,247.2,Femmes
+Samoa,202,246.7,Femmes
+Slovakia,13509,245.4,Femmes
+Poland,97465,244.3,Femmes
+Montenegro,1332,241.1,Femmes
+Israel,14415,237.4,Femmes
+South Korea,107021,235.8,Femmes
+Malta,1111,233.9,Femmes
+Estonia,3632,232.1,Femmes
+Singapore,11287,231.8,Femmes
+Brunei,533,231.6,Femmes
+Austria,21040,227.9,Femmes
+Cyprus,2250,227.6,Femmes
+Spain,110946,225.2,Femmes
+Greece,27157,224.8,Femmes
+Uruguay,7047,222.3,Femmes
+Romania,43397,221.8,Femmes
+Portugal,25306,215.7,Femmes
+French Polynesia,383,214,Femmes
+Barbados,572,212.6,Femmes
+Argentina,66796,209.1,Femmes
+Belarus,19274,208.6,Femmes
+Russia,298489,208,Femmes
+Zimbabwe,10052,207.8,Femmes
+Bulgaria,15199,207.6,Femmes
+Bosnia and Herzegovina,6480,199.2,Femmes
+Fiji,889,196.8,Femmes
+Papua New Guinea,6395,193.4,Femmes
+North Macedonia,3290,190.7,Femmes
+"France, Martinique",867,190.4,Femmes
+Jamaica,3516,190,Femmes
+Brazil,276048,189,Femmes
+Ukraine,79402,187.4,Femmes
+China,2082385,187.3,Femmes
+Cuba,20153,186.4,Femmes
+Trinidad and Tobago,1923,185.7,Femmes
+Puerto Rico,5758,185.3,Femmes
+Turkey,98508,184,Femmes
+Namibia,1826,183.9,Femmes
+South Africa,54032,183.4,Femmes
+Paraguay,6283,183.4,Femmes
+Mongolia,2670,181.6,Femmes
+Peru,35849,180.5,Femmes
+Colombia,58816,178.6,Femmes
+"France, Guadeloupe",755,177.2,Femmes
+Malawi,11034,174.9,Femmes
+Costa Rica,6124,174.5,Femmes
+Georgia,6292,173.8,Femmes
+"France, La Réunion",1249,173.7,Femmes
+Venezuela,29527,173,Femmes
+Bahamas,437,173,Femmes
+French Guiana,238,171.7,Femmes
+Republic of Moldova,5974,169.2,Femmes
+United Arab Emirates,2627,168.9,Femmes
+Philippines,86080,166.5,Femmes
+Kenya,26191,166,Femmes
+Mauritius,1661,164.2,Femmes
+Armenia,4266,163.8,Femmes
+Guam,197,163.8,Femmes
+Mali,8832,160.1,Femmes
+Ecuador,15564,160,Femmes
+Jordan,6184,157.6,Femmes
+Cabo Verde,418,157.2,Femmes
+Thailand,95831,157.1,Femmes
+Lebanon,5690,157,Femmes
+Suriname,529,156.9,Femmes
+Uganda,19267,156.4,Femmes
+Dominican Republic,9319,156.4,Femmes
+Chile,24299,155.8,Femmes
+Laos,4550,155.5,Femmes
+Gaza Strip and West Bank,2485,154,Femmes
+Syria,11579,153.4,Femmes
+Guyana,637,152.9,Femmes
+Zambia,7753,152,Femmes
+Eswatini,622,151.6,Femmes
+North Korea,30369,151.4,Femmes
+Egypt,67388,150.8,Femmes
+Malaysia,25418,150.4,Femmes
+Bolivia,8703,150.2,Femmes
+Kazakhstan,17851,148.6,Femmes
+Tanzania,24743,148.2,Femmes
+Solomon Islands,358,145.2,Femmes
+Morocco,30002,144.2,Femmes
+Kuwait,1995,144.1,Femmes
+Iraq,19641,143.4,Femmes
+Indonesia,210332,143.2,Femmes
+Panama,3683,143,Femmes
+Saint Lucia,184,143,Femmes
+Somalia,6267,141.2,Femmes
+Burundi,4572,141.1,Femmes
+Mozambique,14982,140.2,Femmes
+Algeria,30575,139.4,Femmes
+Qatar,578,138.3,Femmes
+Côte d’Ivoire,9765,137.8,Femmes
+Mexico,101703,137.4,Femmes
+Iran,59464,136.6,Femmes
+Cameroon,12102,136.3,Femmes
+Vietnam,83039,134.5,Femmes
+Madagascar,12143,134.5,Femmes
+Nicaragua,4317,131.2,Femmes
+El Salvador,5430,130.8,Femmes
+Maldives,238,130.8,Femmes
+Ethiopia,49202,130.5,Femmes
+Gabon,1018,130.4,Femmes
+Bahrain,641,130.4,Femmes
+Senegal,7101,130,Femmes
+Myanmar,39556,128.9,Femmes
+Liberia,2088,128.7,Femmes
+Ghana,13975,127.9,Femmes
+Honduras,5390,127.4,Femmes
+Angola,11248,126.8,Femmes
+Haiti,6247,126.6,Femmes
+Cambodia,9834,126.4,Femmes
+Azerbaijan,7919,126,Femmes
+Equatorial Guinea,503,124.5,Femmes
+Burkina Faso,7506,124.3,Femmes
+Comoros,370,124.3,Femmes
+Turkmenistan,3692,124,Femmes
+Albania,2706,123.6,Femmes
+Lesotho,1178,122.4,Femmes
+Libya,3893,121.6,Femmes
+Nigeria,72002,120.4,Femmes
+Guinea,4975,120.1,Femmes
+Eritrea,1492,119.4,Femmes
+Kyrgyzstan,3706,119.3,Femmes
+Mauritania,1834,119.3,Femmes
+Guatemala,8774,118.5,Femmes
+Tunisia,8809,116.7,Femmes
+Guinea-Bissau,706,116.4,Femmes
+Rwanda,5043,116.3,Femmes
+Belize,197,114,Femmes
+Chad,5057,112.9,Femmes
+Sierra Leone,2814,112.2,Femmes
+Pakistan,88533,111.3,Femmes
+Saudi Arabia,13512,110.8,Femmes
+Djibouti,469,110.6,Femmes
+Uzbekistan,17713,109,Femmes
+Afghanistan,12003,108.7,Femmes
+Togo,2793,108.4,Femmes
+Central African Republic,1594,108.2,Femmes
+Sudan,16243,107.9,Femmes
+Oman,1466,107.3,Femmes
+Vanuatu,121,106,Femmes
+Botswana,1131,105.8,Femmes
+"Congo, Democratic Republic of",26955,104.7,Femmes
+Sri Lanka,15311,104.2,Femmes
+São Tomé and Príncipe,70,103,Femmes
+Yemen,9209,100.9,Femmes
+South Sudan,3554,100.5,Femmes
+India,674300,98.7,Femmes
+Timor-Leste,439,93.7,Femmes
+Bangladesh,68280,91.9,Femmes
+Benin,3558,91.2,Femmes
+Tajikistan,3126,88.8,Femmes
+Niger,5528,87.6,Femmes
+The Gambia,573,83.4,Femmes
+Nepal,11443,81.7,Femmes
+"Congo, Republic of",1367,81.5,Femmes
+Bhutan,260,80.4,Femmes
